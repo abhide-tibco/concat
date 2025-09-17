@@ -1,4 +1,4 @@
-module github.com/TIBCOSoftware/tci/examples/TIBCO/activity/concat
+module github.com/abhide-tibco/concat
 
 go 1.20
 
